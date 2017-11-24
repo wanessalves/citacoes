@@ -1,2 +1,0 @@
-# citacoes
-projeto de citaçoes
